@@ -1,0 +1,46 @@
+body{
+	background-image: url(../images/bamboo.jpg);
+	background-size: 100%;
+}
+
+.tekst p{
+	text-align: center;
+}
+
+.pandas{
+	margin-top: 200px;
+}
+
+.jumbotron{
+		margin-top: 200px;
+}
+
+p {
+	color: green;
+	font-size: 20px;
+}
+
+h1{
+	text-align: center;
+}
+h3{
+	color: white;
+}
+
+#my-id {
+	background-color: chocolate;
+	font-style: italic;
+	text-align: center;
+}
+
+.my-class {
+	text-align: center;
+	margin: 10px;
+}
+
+.my-container {
+	background-color: aquamarine;
+	margin: 10px;
+	border: 2px solid grey;
+	padding: 1em;
+}
