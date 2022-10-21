@@ -1,0 +1,54 @@
+body{
+	background-image: url(../images/bamboo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+
+.jumbotron{
+		/*margin-top: 200px;*/
+		width: 60%;
+		margin: 200px auto 0 auto;
+}
+
+p {
+	color: green;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+h1{
+	text-align: center;
+}
+
+hr {
+	margin-top: 30px;
+}
+
+.col-md-8 {
+	margin: auto;
+}
+
+
+.panda {
+
+}
+
+.panda h3 {
+color: white;
+}
+
+.panda section {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 200px auto 100px auto;
+	width: 60%;
+	text-align: center;
+}
+
+.panda section img {
+	height: 300px;
+	object-fit: cover;
+}
